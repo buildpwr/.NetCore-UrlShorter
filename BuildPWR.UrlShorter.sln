@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildPWR.UrlShorter", "BuildPWR.UrlShorter\BuildPWR.UrlShorter.csproj", "{B99C9D25-8BFF-45C8-ACE3-E3A96B0EBAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99C9D25-8BFF-45C8-ACE3-E3A96B0EBAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99C9D25-8BFF-45C8-ACE3-E3A96B0EBAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99C9D25-8BFF-45C8-ACE3-E3A96B0EBAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99C9D25-8BFF-45C8-ACE3-E3A96B0EBAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DAB8C8C-9C0A-46C1-A65B-E1281D058ADF}
+	EndGlobalSection
+EndGlobal
